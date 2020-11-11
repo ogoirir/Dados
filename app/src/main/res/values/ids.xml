@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="numDados" type="id" />
+    <item name="D4" type="id" />
+    <item name="D20" type="id" />
+    <item name="D6" type="id" />
+    <item name="D8" type="id" />
+    <item name="D100" type="id" />
+    <item name="D12" type="id" />
+    <item name="D10" type="id" />
+    <item name="numDMas" type="id" />
+    <item name="textView" type="id" />
+    <item name="bonDados" type="id" />
+</resources>
