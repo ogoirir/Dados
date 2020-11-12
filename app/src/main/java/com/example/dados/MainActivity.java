@@ -14,7 +14,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
-//prueba
 public class MainActivity extends AppCompatActivity {
     //Creo las variables que guardan el valor del ultimo dado que se genera, el numero de dados y el bonificador
     public int ultDado, bonDados;
